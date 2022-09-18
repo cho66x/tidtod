@@ -13,7 +13,8 @@
 4. Jalankan file .py!
    <pre>python cho66x.py</pre>
    
-## Catatan Peenting!
+## Catatan Penting!
 Ketika cho66x.py telah dijalankan, nanti akan muncul recaptcha. dan kita harus memasukkan recaptcha secara manual
 
-## Selamat Mencoba
+## Selamat Mencoba:
+![try](https://github.com/cho66x/tidtod/blob/main/giphy.gif)
