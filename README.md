@@ -17,4 +17,4 @@
 Ketika cho66x.py telah dijalankan, nanti akan muncul recaptcha. dan kita harus memasukkan recaptcha secara manual
 
 ## Selamat Mencoba:
-![try](https://github.com/cho66x/tidtod/blob/main/giphy.gif)
+![try](https://github.com/cho66x/tidtod/blob/master/giphy.gif)
